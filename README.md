@@ -10,4 +10,20 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3499-maximize-active-section-with-trade-i) |
+## Hash Table
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/2336-smallest-number-in-infinite-set) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/2336-smallest-number-in-infinite-set) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
