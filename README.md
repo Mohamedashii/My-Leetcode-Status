@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0005-longest-palindromic-substring) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
@@ -62,4 +63,12 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0004-median-of-two-sorted-arrays) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
