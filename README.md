@@ -26,4 +26,16 @@
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/2336-smallest-number-in-infinite-set) |
+## Array
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Math
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
