@@ -31,6 +31,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0004-median-of-two-sorted-arrays) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
@@ -53,4 +54,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
