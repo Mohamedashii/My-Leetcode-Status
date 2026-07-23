@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0012-integer-to-roman) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0012-integer-to-roman) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/2336-smallest-number-in-infinite-set) |
 ## Design
 |  |
@@ -42,6 +44,7 @@
 | [0002-add-two-numbers](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0012-integer-to-roman) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
