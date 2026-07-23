@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0011-container-with-most-water) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
@@ -71,9 +72,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0011-container-with-most-water) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0010-regular-expression-matching) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
