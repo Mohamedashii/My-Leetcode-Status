@@ -7,6 +7,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0010-regular-expression-matching) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0010-regular-expression-matching) |
 ## Sliding Window
 |  |
 | ------- |
@@ -73,4 +75,5 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
