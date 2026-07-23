@@ -5,6 +5,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0003-longest-substring-without-repeating-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Enumeration
 |  |
@@ -13,6 +14,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/2336-smallest-number-in-infinite-set) |
 ## Design
 |  |
@@ -47,4 +49,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
