@@ -20,6 +20,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0012-integer-to-roman) |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/2336-smallest-number-in-infinite-set) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Design
 |  |
 | ------- |
@@ -28,15 +29,18 @@
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/2336-smallest-number-in-infinite-set) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/2336-smallest-number-in-infinite-set) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Array
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0011-container-with-most-water) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Math
 |  |
@@ -56,6 +60,7 @@
 | [0002-add-two-numbers](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0002-add-two-numbers) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0206-reverse-linked-list](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0206-reverse-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -101,4 +106,12 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Simulation
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Mohamedashii/My-Leetcode-Status/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
